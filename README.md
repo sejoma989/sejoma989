@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sejoma989
-- 👀 I’m interested in spread love and code
-- 🌱 I’m currently learning typescript
+- 👀 I’m interested in learning, keep growing and help growing others
+- 🌱 I’m currently studying my IT specialist master degree
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 You can reach me on https://twitter.com/sejoma989
 
