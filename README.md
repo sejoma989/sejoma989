@@ -1,5 +1,3 @@
-# sejoma989 github main page
-
 - 👋 Hi, I’m @sejoma989
 - 👀 I’m interested in learning, keep growing and help growing others
 - 🌱 I’m currently studying my IT specialist master degree
