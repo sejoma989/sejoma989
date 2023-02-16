@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 <!-- sqlite -->
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
-<h3 align="left">Cloud services, Continious integration and testing:</h3>
+<h3 align="left">Cloud services, Continuous integration and testing:</h3>
 <!-- amazonwebservices -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"alt="googlecloud" width="40" height="40"/> </a>
