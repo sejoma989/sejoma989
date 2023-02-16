@@ -81,6 +81,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Cloud services, Continious integration and testing:</h3>
 <!-- amazonwebservices -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"alt="googlecloud" width="40" height="40"/> </a>
 <!-- docker --> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <!-- jenkins -->
@@ -119,7 +120,22 @@ You can click the Preview link to take a look at your changes.
 <!-- linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!-- ubuntu -->
-<a href=https://ubuntu.com/download" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <!-- debian -->
 <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 
+
+
+<footer>
+    <p align="center">
+    <br>
+    <a align="center" href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="amazonwebservices" width="40" height="40"/> </a>
+    <br>
+    Special thanks to Devicon for providing awesome links
+    <br>
+    © Design & development by <a href="https://sejoma989.github.io/pages/v1">Jose Valencia 2023</a>. God love you and so I.</p>
+    
+
+</footer>
+          
