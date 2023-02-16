@@ -3,12 +3,10 @@ sejoma989/sejoma989 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<img align="center" src="https://komarev.com/ghpvc/?username=sejoma989&label=Profile%20views&color=0e75b6&style=flat" alt="sejoma989 profile views" />
 <h1 align="center"> 👋 Hello there,  this is Jose Mario Valencia 💪</h1>
 <h2 align="center"> 💻 A software engineer creating magnificent digital experiences 📢</h3>
 
-<br><br>
-<p><img align="center" src="https://komarev.com/ghpvc/?username=sejoma989&label=Profile%20views&color=0e75b6&style=flat" alt="sejoma989 profile views" /></p>
 <h3 align="left">¡Welcome to my profile!</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sejoma989&show_icons=false&locale=en" alt="sejoma989 github stats" />
 
@@ -26,12 +24,9 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I have worked as a Freelance developer since 2019**</p>
 
-<br><br>
-
 <h2 align="center">Technologies I use</h2>
 
-<br><br>
-
+<br>
 <h3 align="left">Back:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejoma989&show_icons=false&locale=en" alt="sejoma989 most used languages" />
 
@@ -131,8 +126,6 @@ You can click the Preview link to take a look at your changes.
     <p align="center">
     <br>
     <a align="center" href="https://devicon.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="amazonwebservices" width="40" height="40"/> </a>
-    <br>
-    Special thanks to Devicon for providing awesome links
     <br>
     © Design & development by <a href="https://sejoma989.github.io/pages/v1">Jose Valencia 2023</a>. God love you and so I.</p>
     
